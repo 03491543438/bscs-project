@@ -1,4 +1,5 @@
 # bscs-project
 author-omer ahmad
 <br>
-apna collage
+apna collage (nscs)
+cd
